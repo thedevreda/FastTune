@@ -1,3 +1,4 @@
+![Alt](banner.png)
 # FastTune – Clean & Optimize Your Linux System
 
 `FastTune` is a lightweight, safe, and efficient Linux shell script designed to clean your system, free up space, and improve overall performance. It works great for systems using **APT-based distributions** like Ubuntu, Debian, and Linux Mint, and supports popular browsers like **LibreWolf**, **Brave**, **Firefox**, and **Chromium**.
